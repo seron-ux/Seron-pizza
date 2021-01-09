@@ -21,4 +21,11 @@ function getCrust() {
     var crust = $("#pizzacrust :selected").val();
     return parseInt(crust);
   }
-  
+  function getTopping() {
+    var topping = $("#pizzatopping :selected").val();
+    return parseInt(topping);
+  }
+  function getNumber() {
+    var number = $("#number").val();
+    return parseInt(number);
+  }

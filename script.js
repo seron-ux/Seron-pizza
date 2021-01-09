@@ -17,3 +17,8 @@ function getSize() {
    var size = $("#pizzasize :selected").val();
    return parseInt(size);
 }
+function getCrust() {
+    var crust = $("#pizzacrust :selected").val();
+    return parseInt(crust);
+  }
+  

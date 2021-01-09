@@ -1,0 +1,40 @@
+{
+    * padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+   }
+   
+   .navbar {
+     font-size: 25px !important;
+     background-color: goldenrod !important;
+     z-index: 100;
+   }
+   
+   .navbar-brand {
+     font-size: 30px;
+     color: black;
+   }
+   
+   .toppage {
+     height: 100vh;
+     background-image: url("https://bit.ly/2rN3jm8");
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     width: 100%;
+   }
+   .landingtext {
+     left: 0;
+     margin-top: -100px;
+     position: absolute;
+     text-align: center;
+     top: 50%;
+     width: 100%;
+   }
+   
+   .landingtext > h1 {
+     font-size: 3vw;
+     font-weight: bold;
+   
+   }
+   

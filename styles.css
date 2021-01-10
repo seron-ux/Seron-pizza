@@ -1,13 +1,17 @@
-{
-    * padding: 0;
+
+    * padding{ 
      margin: 0;
      box-sizing: border-box;
    }
    
    .navbar {
      font-size: 25px !important;
-     background-color: goldenrod !important;
+     background-color:chocolate;
      z-index: 100;
+   }
+
+   .navbar list{
+     background-color: chocolate;
    }
    
    .navbar-brand {
@@ -17,7 +21,7 @@
    
    .toppage {
      height: 100vh;
-     background-image: url("https://bit.ly/2rN3jm8");
+     background-image: url("/img/p1.png");
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
@@ -52,14 +56,13 @@
     padding: 16px 20px;
   }
   footer {
-    background-color:burlywood;
+    background-color:chocolate;
     height: 20vh;
     font-size: 1vw;
     font-weight: bold;
   }
-  
-  /* Small devices (landscape phones, 576px and down) */
-  @media (max-width: 576px) {
+
+    @media (max-width: 576px) {
     .landingtext > h1 {
       font-size: 9vw;
     }

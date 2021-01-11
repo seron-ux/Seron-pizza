@@ -9,26 +9,23 @@
 -This site deals with online buying and selling of pizza
 
 ## live link
- - 
+ - https://github.com/seron-ux/Seron-pizza.git
 
 ## Setup/Installation Requirements
 
 - Open terminal (CTRL ALT T)
-- git clone https://seron-ux.github.io/Delani-studio/
-- cd delani studio
+- git clone https://github.com/seron-ux/Seron-pizza.git
+- cd seron pizza
 - use atom . or code . to open the clone repo on Atom or VS-code respectively
 
 
 ## Behaviour Driven Development(BDD)
-1.Landing Page
+1.Navbar
     Mouse-Icon: "Click on the icons to display their description.
-    hide the description by cliking the "descriptions part"
 
-2.Portfolio Section
-  Images:"Hover on each image to display their respective descriptions."
-
-3.Contact Us Section
-  INPUT:"Fill all forms and submit:"OUTPUT:Thanks for being our client, your message has been receive"
+2.Contact Us Section
+  Pick up:click on button then there is a prompt showing what you've ordered.
+  Make delivery:click on button then there is a prompt showing what you've ordered and there prices.
 
 ## Known Bugs
 
@@ -48,4 +45,4 @@ My webpage is not quite responsive, but i am working on making it work better.
 
 ## Licence
 
-- Licensed under the  [MIT license](LICENSE).
+- 

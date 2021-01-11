@@ -19,14 +19,14 @@
      color: black;
    }
    
-   /* .toppage {
+   body {
      height: 100vh;
      background-image: url("./img/p1.png");
      background-size: cover;
      background-repeat: no-repeat;  
      background-position: center;
      width: 100%;
-   } */
+   }
    .landingtext {
      left: 0;
      margin-top: -100px;

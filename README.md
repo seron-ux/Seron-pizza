@@ -14,7 +14,7 @@
 ## Setup/Installation Requirements
 
 - Open terminal (CTRL ALT T)
-- git clone https://github.com/seron-ux/Seron-pizza.git
+- git clone  https://seron-ux.github.io/Seron-pizza/
 - cd seron pizza
 - use atom . or code . to open the clone repo on Atom or VS-code respectively
 

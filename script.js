@@ -89,7 +89,7 @@ function getCrust() {
       " "   + 
       size.html() +
       " "  +
-      crust.html() +
+      crust.val() +
       "  "  + 
       topping.html() +
       "  "  +

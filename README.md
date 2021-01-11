@@ -25,7 +25,7 @@
     
 ## Known Bugs
 
-My webpage is not quite responsive, but i am working on making it work better.
+Some functions are still under development.
 
 ## Technologies Used
 

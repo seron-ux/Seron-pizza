@@ -9,7 +9,7 @@
 -This site deals with online buying and selling of pizza
 
 ## live link
- - https://github.com/seron-ux/Seron-pizza.git
+ - https://seron-ux.github.io/Seron-pizza/
 
 ## Setup/Installation Requirements
 
